@@ -1,3 +1,1 @@
-# venom
-film-promo
-Учебный проект Glo-Academy
+# venom - учебное промо
